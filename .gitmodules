@@ -1,6 +1,3 @@
 [submodule "lib/libyaml"]
 	path = lib/libyaml
 	url = git://github.com/yaml/libyaml.git
-[submodule "lib/json-c"]
-	path = lib/json-c
-	url = git://github.com/json-c/json-c.git

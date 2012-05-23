@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include <json.h>
+#include <yaml.h>
 
 int
 main() {

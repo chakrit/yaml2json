@@ -1,12 +1,14 @@
-# Compiled Object files
+
+# output folders
+bin
+obj
+
+# compiled artifacts
 *.slo
 *.lo
 *.o
-
-# Compiled Dynamic libraries
 *.so
-
-# Compiled Static libraries
 *.lai
 *.la
 *.a
+
